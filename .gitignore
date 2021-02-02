@@ -1,0 +1,7 @@
+.codeplayback
+bin/
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.so
